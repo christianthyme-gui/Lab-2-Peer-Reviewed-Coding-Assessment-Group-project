@@ -1,0 +1,7 @@
+Robot Usage
+
+I used GenAi to help me understand the filter component code from Swing Hacks #13 and asked how I could implement that into exisiting ShoppingList.java.
+
+ChatGPT then provide me with examples and guidance on how I could use it on the filter method.
+
+ChatGPT chat link: https://chatgpt.com/share/6acefb22-08ac-83e8-89c1-d1ac292b2e98
